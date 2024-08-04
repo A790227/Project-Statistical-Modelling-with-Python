@@ -1,11 +1,17 @@
 # Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
-1.Integrative Data Analysis: Combine data from various sources to build a comprehensive view of bike-sharing infrastructure.
-2.API Proficiency: Enhance skills in working with different APIs and data formats.
-3.Data Management: Learn to structure and manage data in a relational database.
-4.Predictive Analytics: Develop and interpret model to understand and predict bike-sharing dynamics.
-5.Comparative Analysis: Evaluate the effectiveness and completeness of different data sources.
+1.Integrative Data Analysis:
+	Combine data from various sources to build a comprehensive view of bike-sharing infrastructure.
+2.API Proficiency:
+	Enhance skills in working with different APIs and data formats.
+3.Data Management:
+	Learn to structure and manage data in a relational database.
+4.Predictive Analytics:
+	Develop and interpret model to understand and predict bike-sharing dynamics.
+5.Comparative Analysis:
+	Evaluate the effectiveness and completeness of different data sources.
+	
 This project provides a robust framework for understanding urban bike-sharing systems, integrating multiple data sources, and applying analytical techniques to derive actionable insights.
 
 ## Process
