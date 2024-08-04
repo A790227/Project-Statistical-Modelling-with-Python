@@ -1,32 +1,40 @@
 # Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
+
 1.Integrative Data Analysis:
-	Combine data from various sources to build a comprehensive view of bike-sharing infrastructure.
+Combine data from various sources to build a comprehensive view of bike-sharing infrastructure.
+
 2.API Proficiency:
-	Enhance skills in working with different APIs and data formats.
+Enhance skills in working with different APIs and data formats.
+
 3.Data Management:
-	Learn to structure and manage data in a relational database.
+Learn to structure and manage data in a relational database.
+
 4.Predictive Analytics:
-	Develop and interpret model to understand and predict bike-sharing dynamics.
+Develop and interpret model to understand and predict bike-sharing dynamics.
+
 5.Comparative Analysis:
-	Evaluate the effectiveness and completeness of different data sources.
+Evaluate the effectiveness and completeness of different data sources.
 	
 This project provides a robust framework for understanding urban bike-sharing systems, integrating multiple data sources, and applying analytical techniques to derive actionable insights.
 
 ## Process
 Part 1: Connecting to CityBikes API
-	Step 1: API Exploration and Setup
-	Step 2: Retrieve Bike Station Data
+Step 1: API Exploration and Setup
+Step 2: Retrieve Bike Station Data
+	
 Part 2: Connecting to Foursquare and Yelp APIs
-	Step 1: Connect to APIs
-	Step 2: Retrieve and Compare POI Data
+Step 1: Connect to APIs
+Step 2: Retrieve and Compare POI Data
+	
 Part 3: Joining Data
-	Step 1: Merge Data
-	Step 2: Create and Populate SQLite Database
+Step 1: Merge Data
+Step 2: Create and Populate SQLite Database
+	
 Part 4: Building a Model
-	Step 1: Develop the Regression Model
-	Step 2: Extend Analysis (Stretch)
+Step 1: Develop the Regression Model
+Step 2: Extend Analysis (Stretch)
 
 ## Results
 The project likely provided insights into how bike station locations relate to the availability and quality of nearby amenities.
